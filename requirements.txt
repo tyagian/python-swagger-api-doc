@@ -1,0 +1,4 @@
+flask
+apispec
+apispec-webframeworks
+marshmallow
